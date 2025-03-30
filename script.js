@@ -34,7 +34,7 @@ for (let i = 0; i < 30; i++) {
 }
 
 
-// fish
+// fish gsap 左右
 const fish = document.querySelector(".fish");
 
 function swimRight() {
